@@ -3,7 +3,7 @@ Learning Spring Boot and Gradle
 
 ### Gradle
 
-Managed from the **build.gradle** file, gradle is an automated build system similar to Maven
+Managed from the **build.gradle** file, Gradle is an automated build system similar to Maven
 It relies on plugins to extend its functionality.
 
 *Example:*
